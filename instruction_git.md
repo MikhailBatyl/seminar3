@@ -15,3 +15,19 @@
 ## Чтобы проверить состояние репозитория используют команду:
 
     Git status
+
+    git add
+
+    git commit -m
+
+    git commit -a
+
+    git commit -am
+
+    git log
+
+    git checkout
+
+    git diff
+
+    
