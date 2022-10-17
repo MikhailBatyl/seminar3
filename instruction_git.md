@@ -63,6 +63,10 @@
 ## Ссылки для дополнительной информации:
 
 **https://habr.com/ru/company/ruvds/blog/599929/**
+
 **https://habr.com/ru/post/60347/**
+
+
+[link to help.md](./HELP.md)
 
 
