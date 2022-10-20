@@ -117,3 +117,5 @@
 
     git log --graph --oneline --decorate
 
+**Всю необходимую инфформацию смотри в ветки master**
+
